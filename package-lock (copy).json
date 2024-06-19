@@ -24,6 +24,7 @@
         "@npmcli/promise-spawn",
         "@npmcli/run-script",
         "@sigstore/tuf",
+        "@sigstore/tuf",
         "abbrev",
         "archy",
         "cacache",
